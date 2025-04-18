@@ -18,10 +18,10 @@
 			* set playingMusic, false
 	* else
 		# Play dawn pt.1
-			* music "James Parrott - sunrise - 01 dawn pt.1.mp3"
+			* music "James Parrott - sunrise - 01 dawn pt.1.wav"
 			OK, playing dawn pt.1
 			* set playingMusic, true
 		# Play dawn pt.2
-			* music "James Parrott - sunrise - 02 dawn pt.2.mp3"
+			* music "James Parrott - sunrise - 02 dawn pt.2.wav"
 			OK, playing dawn pt.2
 			* set playingMusic, true
